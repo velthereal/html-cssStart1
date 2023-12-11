@@ -1,0 +1,26 @@
+body {
+	background-color: #f5f5f5;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	font-size: 16px;
+}
+
+.letter {
+	color: darkred;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.block {
+	text-align: center;
+}
+
+.color {
+	background-color: #ffacab;
+}

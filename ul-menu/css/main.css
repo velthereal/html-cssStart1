@@ -1,0 +1,92 @@
+ul {
+	list-style-type: none;
+	text-align: center;
+	padding: 0;
+}
+
+li {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+	display: inline-block;
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+}
+
+.menu-1 a {
+	background: linear-gradient(to bottom, rgba(154,250,230,1) 0%, rgba(55,177,168,1) 100%);
+	border: solid #2c928b 1px;
+}
+
+.menu-1 a:hover {
+	background: linear-gradient(to bottom, rgba(36,245,203,1) 0%, rgba(37,121,115,1) 100%);
+}
+
+.menu-2 a {
+	background: linear-gradient(to bottom, rgba(145,205,246,1) 0%, rgba(53,115,177,1) 100%);
+	border: solid rgb(53,115,177) 1px;
+}
+
+.menu-2 a:hover {
+	background: linear-gradient(to bottom, rgba(38,158,237,1) 0%, rgba(36,79,122,1) 100%)
+}
+
+.menu-3 a {
+	background: linear-gradient(to bottom, rgba(134,233,156,1) 0%, rgba(33,199,179,1) 100%);
+	border: solid rgb(33,199,179) 1px;
+
+}
+
+.menu-3 a:hover {
+	background: linear-gradient(to bottom, rgba(40,215,78,1) 0%, rgba(22,136,123,1) 100%);
+}
+
+.menu-4 a {
+	background: linear-gradient(to bottom, rgba(165,242,135,1) 0%, rgba(83,177,53,1) 100%);
+	border: solid rgb(83,177,53) 1px;
+}
+
+.menu-4 a:hover {
+	background: linear-gradient(to bottom, rgba(90,231,35,1) 0%, rgba(58,122,36,1) 100%);
+}
+
+.menu-5 a {
+	background: linear-gradient(to bottom, rgba(242,232,135,1) 0%, rgba(177,174,53,1) 100%);
+	border: solid rgb(177,174,53) 1px;
+}
+
+.menu-5 a:hover {
+	background: linear-gradient(to bottom, rgba(231,211,35,1) 0%, rgba(122,120,36,1) 100%);
+}
+
+.menu-6 a {
+	background: linear-gradient(to bottom, rgba(245,172,141,1) 0%, rgba(177,106,59,1) 100%);
+	border: solid rgb(177,106,59) 1px;
+}
+
+.menu-6 a:hover {
+	background: linear-gradient(to bottom, rgba(236,95,34,1) 0%, rgba(122,73,41,1) 100%);
+}
+
+.menu-7 a {
+	background: linear-gradient(to bottom, rgba(248,148,202,1) 0%, rgba(177,57,107,1) 100%);
+	border: solid rgb(177,57,107) 1px;
+}
+
+.menu-7 a:hover {
+	background: linear-gradient(to bottom, rgba(241,39,147,1) 0%, rgba(123,40,75,1) 100%);
+}
+.menu-8 a {
+	background: linear-gradient(to bottom, rgba(212,137,243,1) 0%, rgba(152,57,177,1) 100%);
+	border: solid rgb(152,57,177) 1px;
+}
+
+.menu-8 a:hover {
+	background: linear-gradient(to bottom, rgba(174,37,233,1) 0%, rgba(107,40,123,1) 100%);
+}

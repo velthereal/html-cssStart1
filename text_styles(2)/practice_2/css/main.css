@@ -1,0 +1,17 @@
+body {
+	background-color: #f6f6f6;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+	margin: 30px;
+}
+
+span {
+	background-color: #dfe0e1;
+	font-size: 30px;
+}
+
+.red {
+	color: darkred;
+}

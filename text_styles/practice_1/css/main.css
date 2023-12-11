@@ -1,0 +1,25 @@
+*{
+	margin: 5px;
+}
+
+body {
+	background-color: lightgray;
+}
+
+h1 {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+p {
+	margin-bottom: 15px;
+}
+
+sup {
+	color: darkblue;
+	font-weight: bold;
+}
+
+.note {
+	font-size: 14px;
+} 

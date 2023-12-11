@@ -1,0 +1,73 @@
+@font-face {
+	font-family: font;
+	src: url(../fonts/font.otf);
+}
+
+@font-face {
+	font-family: library-soft;
+	src: url(../fonts/Library_soft.otf);
+}
+
+@font-face {
+	font-family: library;
+	src: url(../fonts/Library.otf);
+}
+
+@font-face {
+	font-family: Perfograma;
+	src: url(../fonts/Perfograma.otf);
+}
+
+h1 {
+	font-family: library-soft;
+	color: #a85432;
+	text-align: center;
+}
+
+.parag-one {
+	font-family: font;
+	text-align: center;
+	line-height: 30px;
+	margin: 0 30px 0 30px;
+}
+
+h2 {
+	font-family: library;
+	color: blue;
+	text-align: center;
+}
+
+.parag-two {
+	text-align: right;
+	font-weight: bold;
+	margin: 0 30px 0 30px;
+	word-spacing: 8px;
+}
+
+h3 {
+	color: #92146a;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.parag-three {
+	font-family: Perfograma;
+	text-decoration: underline;
+	margin-left: 60px;
+	letter-spacing: 5px;
+}
+
+.parag-four {
+	text-indent: 50px;
+	margin: 0 30px 0 30px;
+}
+
+.last {
+	border: solid #a52a2a 1px;
+	color: #a52a2a;
+	font-style: italic;
+	font-weight: bold;
+	width: 200px;
+	padding: 5px;
+	margin: 20px 30px 0 30px;
+}

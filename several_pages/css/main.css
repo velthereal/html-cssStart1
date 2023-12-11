@@ -1,0 +1,45 @@
+.main-menu {
+	list-style-type: none;
+	padding: 0;
+	text-align: center;
+}
+
+.main-menu img {
+	width: 450px;
+}
+
+.menu {
+	list-style-type: none;
+	padding: 0;
+	text-align: center;
+}
+
+.menu li {
+	display: inline-block;
+}
+
+.menu img {
+	height: 200px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.img {
+	float: left;
+	margin-right: 15px;
+	width: 500px;
+}
+
+p {
+	clear: right;
+	font-size: 24px;
+	text-align: center;
+}
+
+.link {
+	text-align: center;
+	font-size: 1.5em;
+	margin: auto;
+}

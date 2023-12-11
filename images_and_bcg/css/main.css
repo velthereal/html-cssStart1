@@ -1,0 +1,113 @@
+/* body {
+	background-color: violet;
+}
+
+figure {
+	text-align: center;
+} 
+
+.img1 {
+	width: 400px;
+}
+
+.align {
+	vertical-align: top; middle, bottom, top
+}
+
+.img {
+	float: right;
+	margin-left: 10px;
+	width: 100px;
+	height: 250px;
+}
+
+p {
+	margin-left: 10px;
+}
+
+.clear {
+	clear: right;
+} */
+
+/* img {
+	transition: 2s;
+	width: 200px;
+}
+
+p img:nth-child(1):hover {
+	filter: blur(50px);
+}
+
+p img:nth-child(2):hover {
+	filter: brightness(0.5);
+}
+
+p img:nth-child(3):hover {
+	filter: brightness(2);
+}
+
+p img:nth-child(4):hover {
+	filter: contrast(0.5);
+}
+
+p img:nth-child(5):hover {
+	filter: grayscale(1);
+}
+
+p img:nth-child(6):hover {
+	filter: hue-rotate(180deg);
+}
+
+p img:nth-child(7):hover {
+	filter: invert(1);
+}
+
+p img:nth-child(8):hover {
+	filter: opacity(0.5);
+}
+
+p img:nth-child(9):hover {
+	filter: saturate(2);
+}
+
+p img:nth-child(10):hover {
+	filter: sepia(1);
+}
+
+p img:nth-child(11):hover {
+	filter: drop-shadow(15px 15px 10px #000);
+}
+
+p img:nth-child(12):hover {
+	transform: translate(25px,25px);
+}
+
+p img:nth-child(13):hover {
+	transform:scale(.6,1.2);
+}
+
+p img:nth-child(14):hover {
+	transform: skew(25deg, 25deg);
+}
+
+p img:nth-child(15) {
+	transform-origin: top left;
+}
+
+p img:nth-child(15):hover {
+	transform: rotate(25deg);
+}
+p img:nth-child(12) {
+	width: 200px;
+	box-shadow: 10px 10px 5px #000;
+	filter: drop-shadow(15px 15px 10px #000);
+} */
+
+body {
+	background-image: url(../image/design-7593741__340.jpg);
+	/* background-repeat: no-repeat; */
+	/* background-position: 50% 50%; */
+	background-size: 100%;
+	background-attachment: fixed;
+	/* height: 100vh; */
+}

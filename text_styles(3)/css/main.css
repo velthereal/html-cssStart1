@@ -1,0 +1,17 @@
+.dfn {
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+.color {
+	color: #0645ad;
+}
+
+.background {
+	background-color: #FFF8DC;
+	font-style: italic;
+	line-height: 40px;
+}

@@ -1,0 +1,41 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #f6f6f6;
+}
+h1 {
+	font-family: 'Courier New', Courier, monospace;
+	text-align: center;
+}
+
+.parent {
+	text-align: right;
+	line-height: 30px;
+}
+
+.quote-one {
+	font-style: italic;
+}
+
+.quote-two {
+	font-size: 12px;
+}
+
+.letter {
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.one {
+	color: #737373;
+}
+.two {
+	color: #999999;
+}
+.three {
+	color: #cccccc;
+}
+.four {
+	color: #e6e6e6;
+
+}

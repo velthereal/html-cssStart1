@@ -1,0 +1,50 @@
+/* * {
+    color: yellowgreen;
+}
+
+p {
+    color: blueviolet;
+}
+
+.textcolor {
+    color: red;
+}
+
+#parag {
+    color: green;
+} */
+
+.textcolor {
+    /* color: #ffffff; */
+    /* color: rgb(150, 0, 255); */
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 1.5em;
+    text-align: justify;
+    text-align-last: right;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-decoration: line-through;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style: solid;
+    line-height: 35px;
+    border: solid 5px violet;
+    /* border-width: 0 15px; */
+    /* border-top: solid 25px; */
+    border-radius: 15px 0 0 0;
+    /* border-bottom-left-radius: 40px; */
+    width: 400px;
+    height: 400px;
+    /* border-radius: 50%; */
+    background-color: rgba(0, 0, 0, .5);
+    margin: 50px;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+span {
+    vertical-align: sub;
+}

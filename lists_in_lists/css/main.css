@@ -1,0 +1,19 @@
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #f5f5f5;
+}
+
+ol li {
+	color: darkblue;
+}
+
+h1 {
+	font-size: 18px;
+}
+
+.first>li {
+	list-style-type: upper-roman;
+}
+.third>li {
+	list-style-type: lower-latin;
+}

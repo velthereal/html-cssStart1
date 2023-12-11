@@ -1,0 +1,29 @@
+body {
+	background-color: #f5f5f5;
+}
+
+dl {
+	list-style-position: outside;
+	color: #fff;
+}
+
+dt {
+	background-color: #0e494d;
+	text-transform: uppercase;
+	padding: 15px 0 15px 60px;
+}
+
+dd {
+	background-color: #246166;
+	text-align: justify;
+	margin-left: 0;
+	padding: 15px 15px 15px 30px;
+}
+
+sup {
+	color: lightgray;
+}
+
+span {
+	font-weight: bold;
+}

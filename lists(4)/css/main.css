@@ -1,0 +1,43 @@
+.first-list li {
+    list-style-type: circle
+}
+
+.second-list li {
+    list-style-type: square;
+}
+
+.third-list li {
+    list-style-type: circle;
+}
+
+.inner-list li {
+    list-style-type: square;
+}
+
+.fourth-list li {
+    list-style-type: lower-latin;
+}
+
+.fifth-list li {
+    list-style-type: upper-latin;
+}
+
+.sixth-list li {
+    list-style-type: lower-roman;
+}
+
+.seventh-list li {
+    list-style-type: upper-roman;
+}
+
+h3 {
+    font-family: 'Pacifico', cursive;
+}
+
+.categories li {
+    list-style-image: url(../image/Twemoji_1f600.svg.png);
+}
+
+.letters li {
+    list-style-type: lower-latin;
+}

@@ -1,0 +1,22 @@
+body {
+	background-color: #ffefd5;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+	color: #7e0709;
+}
+
+ul>li, ol>li {
+	color: #397130;
+}
+
+ul>li {
+	list-style-type: circle;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+ol>li {
+	font-weight: 500;
+}

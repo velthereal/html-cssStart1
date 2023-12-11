@@ -1,0 +1,23 @@
+body {
+	background-color: #f5f5f5;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+	font-size: 18px;
+}
+.sesons>li {
+	list-style-image: url(../image/1.jpg);
+}
+.winter {
+	list-style-image: url(../image/2.png);
+}
+.spring {
+	list-style-image: url(../image/3.png);
+}
+.summer {
+	list-style-image: url(../image/4.png);
+}
+.autumn {
+	list-style-image: url(../image/5.png);
+}

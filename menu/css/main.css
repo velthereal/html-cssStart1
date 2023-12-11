@@ -1,0 +1,22 @@
+ul {
+	padding: 0;
+	background-color: #1b1b1b;
+	width: 245px;
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 13px;
+	font-weight: 500;
+	border-radius: 5px;
+}
+
+li {
+	list-style-type: none;
+	line-height: 40px;
+	border-bottom: lightgrey solid .5px;
+	
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
